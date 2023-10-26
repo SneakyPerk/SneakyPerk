@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SneakyPerk
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Hardware/Software
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me Contact; snoopyisthebom@gmail.com
 
 <!---
